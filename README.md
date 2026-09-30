@@ -41,7 +41,7 @@ To demonstrate how SQL, Excel, and Power BI can be used together to clean, analy
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](hrrrrrrrrrrr.jfif)
+![HR Analytics Dashboard](hrrrrrrrrrrrr)
 The interactive Power BI dashboard presents key workforce metrics, attrition patterns, and department-level insights.
 
 
