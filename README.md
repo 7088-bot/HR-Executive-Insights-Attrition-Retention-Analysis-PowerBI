@@ -36,10 +36,12 @@ I followed an end-to-end data analysis workflow, using SQL for data cleaning, Mi
 * The dashboard provides department-wise and job-satisfaction-wise views of employee attrition.
 
 ## Dashboard
+## Project Objective
+To demonstrate how SQL, Excel, and Power BI can be used together to clean, analyze, and visualize HR data for business decision-making.
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](hrrrrrrrrrrr.jfif)
 The interactive Power BI dashboard presents key workforce metrics, attrition patterns, and department-level insights.
 
-## Project Objective
-
-To demonstrate how SQL, Excel, and Power BI can be used together to clean, analyze, and visualize HR data for business decision-making.
 
